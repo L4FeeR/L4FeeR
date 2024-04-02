@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=L4FeeR&show_icons=true&theme=radical)
 <!--
 **L4FeeR/L4FeeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
