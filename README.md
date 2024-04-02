@@ -6,9 +6,9 @@ Just a person, who like to learn all the possible things related to system devic
 
 
 # 📛Usernames
-Telegram : ![@l4feer](https://t.me/L4feer)
-Discord : l4feer (Lafeer0427)
-Github : ![L4FeeR](https://github.com/L4FeeR)
+-Telegram : ![@l4feer](https://t.me/L4feer)
+-Discord : l4feer (Lafeer0427)
+-Github : ![L4FeeR](https://github.com/L4FeeR)
 <!--
 **L4FeeR/L4FeeR** is a ✨ _special_ 
 ✨ repository because its `README.md` (this file) appears on your GitHub profile.
