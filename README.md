@@ -8,6 +8,10 @@ Former Arch user, i like break things :)
 
 `sudo pacman -Syu;sudo rm -rvf /* --no-preserve-root`
 
+*My Page:*
+  ![clickme](https://l4feer.github.io)
+
+
 # 📛Usernames
 - Telegram : [@l4feer](https://t.me/L4feer)
 - Discord : l4feer (Lafeer0427)
