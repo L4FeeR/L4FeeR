@@ -2,8 +2,11 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=L4FeeR&show_icons=true&theme=radical)
 
 # 📖 About Me
-Just a person, who like to learn all the possible things related to system devices.
+Just a boy, who likes to learn about system and their feelings :)
 
+Former Arch user, i like break things :)
+
+`sudo pacman -Syu;sudo rm -rvf /* --no-preserve-root`
 
 # 📛Usernames
 - Telegram : [@l4feer](https://t.me/L4feer)
