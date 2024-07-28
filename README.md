@@ -4,9 +4,12 @@
 # 📖 About Me
 Just a boy, who likes to learn about system and their feelings :)
 
-Former Arch user, i like break things :)
+Former Arch user,
+currently Zorin + Endeavour,
+I like breaking things :)
 
 `sudo pacman -Syu;sudo rm -rvf /* --no-preserve-root`
+`sudo dd if=/dev/urandom of=/dev/sda status=progress`
 
 *My Page:*
   ![clickme](https://l4feer.github.io)
