@@ -9,7 +9,11 @@ currently Zorin + Endeavour,
 I like breaking things :)
 
 `sudo pacman -Syu;sudo rm -rvf /* --no-preserve-root`
+
+
+
 `sudo dd if=/dev/urandom of=/dev/sda status=progress`
+
 
 *My Page:*
   ![clickme](https://l4feer.github.io)
