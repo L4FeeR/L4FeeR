@@ -5,7 +5,8 @@
 Just a hooman, who likes to learn about system and their feelings as well :)
 DistroHopper :)
 
-Former Arch user,
+Former Arch user
+
 -I Use Arch BTW, 
 
 currently Zorin + Endeavour,
@@ -33,7 +34,8 @@ I like breaking things :)
 - Dream project :  LFS  '_'
 - Need To Learn : dart, linux, c nd cpp <for kernel programming>, advanced shell, 
 
-### Current Hobbies :
+## Current Hobbies :
+
 -Testing new linux distros,
 -Helping in improving EvoLinx <frnds LFS project>
 -Flutter : Hola! Learning flutter... Continued!
