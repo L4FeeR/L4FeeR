@@ -30,32 +30,6 @@ Former Arch user
 - Discord : l4feer (Lafeer0427)
 - Github : [L4FeeR](https://github.com/L4FeeR)
 
- 
- 
- 
-- Dream project :  LFS  '_'
-- Need To Learn : dart, linux, c nd cpp <for kernel programming>, advanced shell, 
-
-### Current Hobbies :
-- Testing new linux distros
-- Helping in improving EvoLinx <frnds LFS project>
-- Flutter : Hola! Learning flutter... Continued!
-
-  
-### Old Works/Hobbies :
-- Redmi Note 6 Pro ---> Built Nethunter Kernels, [!Source](t.me/l4feer_kramel)
-- Game Map Creations :)
-- Game Guardian LUA GG Scripts
-- Custom Android Boot Animations --> not qmg, but zip
-- Custom Rom Tester...
-
-#### Names I Own In Communitites :)
-
-- > Flasholic
-- > DistroHopper
-- > LinuxBreaker
-- > 0msGuy
-- > BatMan :)
 <!--
 **L4FeeR/L4FeeR** is a ✨ _special_ 
 ✨ repository because its `README.md` (this file) appears on your GitHub profile.
