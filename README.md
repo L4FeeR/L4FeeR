@@ -35,12 +35,11 @@ I like breaking things :)
 - Dream project :  LFS  '_'
 - Need To Learn : dart, linux, c nd cpp <for kernel programming>, advanced shell, 
 
-## Current Hobbies :
-
+### Current Hobbies :
 -Testing new linux distros,
 -Helping in improving EvoLinx <frnds LFS project>
 -Flutter : Hola! Learning flutter... Continued!
--
+
   
 ### Old Works/Hobbies :
 - Redmi Note 6 Pro ---> Built Nethunter Kernels, [!Source](t.me/l4feer_kramel)
