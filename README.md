@@ -3,8 +3,11 @@
 
 # 📖 About Me
 Just a hooman, who likes to learn about system and their feelings as well :)
+DistroHopper :)
 
 Former Arch user,
+-I Use Arch BTW, 
+
 currently Zorin + Endeavour,
 I like breaking things :)
 
@@ -26,8 +29,22 @@ I like breaking things :)
 
  
  
- ## Others
-- Dream project : LFS  '_'
+ 
+- Dream project :  LFS  '_'
+- Need To Learn : dart, linux, c nd cpp <for kernel programming>, advanced shell, 
+
+### Current Hobbies :
+-Testing new linux distros,
+-Helping in improving EvoLinx <frnds LFS project>
+-Flutter : Hola! Learning flutter... Continued!
+-
+  
+### Old Works/Hobbies :
+- Redmi Note 6 Pro ---> Built Nethunter Kernels, [!Source](t.me/l4feer_kramel)
+- Mini Millitia Map Creations :)
+- Game Guardian LUA GG Scripts
+- Custom Android Boot Animations --> not qmg, but zip
+- Custom Rom Tester... Flasholics :)
 <!--
 **L4FeeR/L4FeeR** is a ✨ _special_ 
 ✨ repository because its `README.md` (this file) appears on your GitHub profile.
