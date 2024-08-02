@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=L4FeeR&show_icons=true&theme=radical)
 
 # 📖 About Me
-Just a boy, who likes to learn about system and their feelings :)
+Just a hooman, who likes to learn about system and their feelings as well :)
 
 Former Arch user,
 currently Zorin + Endeavour,
@@ -15,14 +15,19 @@ I like breaking things :)
 `sudo dd if=/dev/urandom of=/dev/sda status=progress`
 
 
-*My Page:*
-  ![clickme](https://l4feer.github.io)
+*Articles:*
+  ![clickme](l4feer.github.io)
 
 
 # 📛Usernames
 - Telegram : [@l4feer](https://t.me/L4feer)
 - Discord : l4feer (Lafeer0427)
 - Github : [L4FeeR](https://github.com/L4FeeR)
+
+ 
+ 
+ ##Others
+- Dream project : LFS  '_'
 <!--
 **L4FeeR/L4FeeR** is a ✨ _special_ 
 ✨ repository because its `README.md` (this file) appears on your GitHub profile.
