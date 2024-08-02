@@ -26,7 +26,7 @@ I like breaking things :)
 
  
  
- ##Others
+ ## Others
 - Dream project : LFS  '_'
 <!--
 **L4FeeR/L4FeeR** is a ✨ _special_ 
