@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! Como Estasto 👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=L4FeeR&show_icons=true&theme=radical)
 
 # 📖 About Me
@@ -8,10 +8,11 @@ Just a hooman, who likes to learn about system and their feelings as well :)
 
 Former Arch user
 
--I Use Arch BTW, 
+> I use arch btw, 
 
-currently Zorin + Endeavour,
-I like breaking things :)
+- currently Zorin + Endeavour
+
+> ```I like breaking things :)```
 
 `sudo pacman -Syu;sudo rm -rvf /* --no-preserve-root`
 
@@ -36,17 +37,25 @@ I like breaking things :)
 - Need To Learn : dart, linux, c nd cpp <for kernel programming>, advanced shell, 
 
 ### Current Hobbies :
--Testing new linux distros,
--Helping in improving EvoLinx <frnds LFS project>
--Flutter : Hola! Learning flutter... Continued!
+- Testing new linux distros
+- Helping in improving EvoLinx <frnds LFS project>
+- Flutter : Hola! Learning flutter... Continued!
 
   
 ### Old Works/Hobbies :
 - Redmi Note 6 Pro ---> Built Nethunter Kernels, [!Source](t.me/l4feer_kramel)
-- Mini Millitia Map Creations :)
+- Game Map Creations :)
 - Game Guardian LUA GG Scripts
 - Custom Android Boot Animations --> not qmg, but zip
-- Custom Rom Tester... Flasholics :)
+- Custom Rom Tester...
+
+#### Names I Own In Communitites :)
+
+- > Flasholic
+- > DistroHopper
+- > LinuxBreaker
+- > 0msGuy
+- > BatMan :)
 <!--
 **L4FeeR/L4FeeR** is a ✨ _special_ 
 ✨ repository because its `README.md` (this file) appears on your GitHub profile.
