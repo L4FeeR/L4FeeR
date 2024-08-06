@@ -1,6 +1,9 @@
+
 ### Hola! Como Estasto 👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=L4FeeR&show_icons=true&theme=radical)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=l4feer&theme=dark&hide_border=false) <br><br><br>
+[![](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Git+Profile*;I'm+Muhamed+Lafeer,;Being+stupid+is+fuckin'+awesome!)](https://git.io/typing-svg)
+<br>
 # 📖 About Me
 Just a hooman, who likes to learn about system and their feelings as well :)
 
