@@ -6,11 +6,11 @@
 <!--
 ![](https://github-stats-alpha.vercel.app/api?username=l4feer&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
 -->
-<br>
+
 # 📖 About Me
 Just a hooman, who likes to learn about system and their feelings as well :)
 
-# ***A DistroHopper :)***
+## ***A DistroHopper :)***
 
 Former Arch user
 
