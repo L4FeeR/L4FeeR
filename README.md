@@ -16,7 +16,7 @@ Former Arch user
 
 > I use arch btw, 
 
-- currently Zorin + Endeavour
+- currently Base Arch*
 
 > ```I like breaking things :)```
 
