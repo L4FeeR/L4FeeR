@@ -10,15 +10,15 @@
 -->
 
 # 📖 About Me
-Just a hooman, who likes to learn about system and their feelings as well :)
+A hooman, who likes to spend time with systems and their feelings as well :p
 
 ## ***A DistroHoper :)***
 
-Former Arch user
+Arch user
 
 > I use arch btw, 
 
-- currently Endeavour - Arch*
+- currently Base Arch*
 
 > ```I like breaking things :)```
 
@@ -39,7 +39,7 @@ Former Arch user
 - Discord : l4feer (Lafeer0427)
 - Github : [L4FeeR](https://github.com/L4FeeR)
 
-- You want docs? look at this [Here!](https://docs.github.com/en)
+- You want docs? look at [Here!](https://docs.github.com/en)
 
 <!--
 **L4FeeR/L4FeeR** is a ✨ _special_ 
