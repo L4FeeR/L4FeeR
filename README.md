@@ -4,13 +4,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=l4feer&theme=dark&hide_border=false) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L4FeeR&theme=tokyonight)<br><br><br>
-[![](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Git+Profile*;I'm+Muhamed+Lafeer,;Being+simple+is+fuckin'+awesome!)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Git+Profile*;I'm+Muhamed+Lafeer,;Learning+is+an+art!)](https://git.io/typing-svg)
 <!--
 ![](https://github-stats-alpha.vercel.app/api?username=l4feer&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
 -->
 
 # 📖 About Me
-A hooman, who likes to spend time with systems and their feelings as well :p
+Just a Asian guy, who like CLI and Material You!
 
 ## ***A DistroHoper :)***
 
