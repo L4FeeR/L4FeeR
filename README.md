@@ -10,9 +10,9 @@
 -->
 
 # 📖 About Me
-Just a Asian guy, who like CLI and Material You!
+Just a tech, who loves cli and catppuccin!
 
-## ***A DistroHoper :)***
+## ***A DistroHopper :)***
 
 Arch user
 
@@ -34,9 +34,9 @@ Arch user
   [l4feer.github.io](https://l4feer.github.io)
 
 
-# 📛Usernames
+# 📛Username
 - Telegram : [@l4feer](https://t.me/L4feer)
-- Discord : l4feer (Lafeer0427)
+- Discord : [Lafeer0427](discord.com/users/Lafeer0427)
 - Github : [L4FeeR](https://github.com/L4FeeR)
 
 - You want docs? look at [Here!](https://docs.github.com/en)
